@@ -1,0 +1,12 @@
+s = "jason is a cool man"
+print("jason is a 'cool' man")
+print('jason is a "cool" man')
+print('jason is a \'cool\' man')
+print("jason is a \"cool\" man")
+print('jason is a "cool" \r\nman')
+print('jason is a "cool" man')
+print("jason is a \\cool\\ man")
+print("jason\tis\ta\tcool\tman")
+print("jason\bis\ta\tcool\tman")
+print(r"jason\bis\ta\tcool\tman")
+print(type(s))
